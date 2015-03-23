@@ -1,0 +1,16 @@
+Test suite test: RUNNING...
+
+Handler.Common
+  robots.txt
+    gives a 200
+    has correct User-agent
+  favicon.ico
+    gives a 200
+Handler.Home
+  loads the index and checks it looks right
+  leaves the user table empty
+
+Finished in 0.7583 seconds
+5 examples, 0 failures
+Test suite test: PASS
+Test suite logged to: dist/dist-sandbox-f391711a/test/Sudoku-0.0.0-test.log
