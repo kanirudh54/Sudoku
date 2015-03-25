@@ -8,6 +8,7 @@ import Text.Jasmine         (minifym)
 import Yesod.Auth.BrowserId (authBrowserId)
 import Yesod.Default.Util   (addStaticContentExternal)
 import Yesod.Core.Types     (Logger)
+import Yesod.Form.Nic (YesodNic, nicHtmlField)
 import qualified Yesod.Core.Unsafe as Unsafe
 
 -- | The foundation datatype for your application. This can be a good place to
