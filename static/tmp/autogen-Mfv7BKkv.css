@@ -1,0 +1,16 @@
+h1 {
+    text-align : center;
+}
+table {
+    padding : 0px;
+}
+tr {
+    padding : 0px;
+}
+td {
+    padding : 0px;
+}
+#inner {
+    width : 48px;
+    height : 48px;
+}

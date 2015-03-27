@@ -1,0 +1,157 @@
+<div class="jumbotron">
+    <h1><span class="glyphicon glyphicon-th"></span>Sudoku
+        <p>You can solve sudoku puzzels or ask for solutions
+<div >
+    <div #contentlayout align="left">
+        <p><h3>Instructions:
+        <ul>
+            <li>Use <strong>Refresh</strong> to get new puzzle
+            <li>Use <strong>Solve</strong> to get the solution
+    <div #contentlayout align="center">
+        <div>
+            <table class="table table-bordered" #outer cellspacing="0" cellpadding="0">
+                <tbody>
+                    <tr>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                    <tr>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                    <tr>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                        <td>
+                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+                                    <tr>
+                                        <td>
+                                        <td>
+                                        <td>
+    <div #contentlayout >
+        <div>
+            <button .btn .btn-primary type="submit">New Puzzle <span class="glyphicon glyphicon-refresh"></span>
+        <div><br>    
+        <div>    
+            <button .btn .btn-primary type="submit">Solve <span class="glyphicon glyphicon-circle-arrow-right"></span>

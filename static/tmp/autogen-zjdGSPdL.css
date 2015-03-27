@@ -1,0 +1,25 @@
+h1 {
+    text-align : center;
+}
+#inner {
+    width : 90px;
+    height : 90px;
+    padding : 0px
+;
+}
+#outer {
+    width : 270px;
+    height : 270px;
+    padding : 0px;
+}
+.jumbotron {
+    max-height : 170px;
+}
+footer {
+    align : center;
+}
+#contentlayout {
+    display : inline-block;
+    padding : 80px;
+    vertical-align: middle;
+}
