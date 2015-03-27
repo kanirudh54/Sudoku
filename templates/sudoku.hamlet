@@ -10,145 +10,15 @@
     <div #contentlayout align="center">
         <div>
             <table class="table table-bordered" #outer cellspacing="0" cellpadding="0">
-                <tbody>
+                $forall outerows <- dat
                     <tr>
+                      $forall innerrows <- outerows
                         <td>
                             <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
+                                $forall innerinnerrows <- innerrows
                                     <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                        <td>
-                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                        <td>
-                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                    <tr>
-                        <td>
-                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                        <td>
-                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                        <td>
-                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                    <tr>
-                        <td>
-                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                        <td>
-                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                        <td>
-                            <table class="table table-bordered" #inner cellspcaing="1" cellpadding="0">
-                                <tbody>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
-                                    <tr>
-                                        <td>
-                                        <td>
-                                        <td>
+                                       $forall value <- innerinnerrows
+                                        <td>#{show value}
     <div #contentlayout >
         <div>
             <button .btn .btn-primary type="submit">New Puzzle <span class="glyphicon glyphicon-refresh"></span>
