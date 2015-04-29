@@ -1,0 +1,23 @@
+h1 {
+    text-align : center;
+}
+.jumbotron {
+    max-height : 170px;
+}
+footer {
+    clear: both;
+}
+td {
+    width: 1em;
+    height: 1em;
+}
+input {
+    width: 2.3em;
+}
+.float-left {
+    float: left;
+    width: 33%;
+}
+td[name = "r1c1"] {
+    color: red;
+}

@@ -1,0 +1,26 @@
+h1 {
+    text-align : center;
+}
+.jumbotron {
+    max-height : 170px;
+}
+footer {
+    align: rightr;
+}
+#contentlayout {
+    display : inline-block;
+    vertical-align: middle;
+}
+td {
+    width: 0.5em;
+    height: 0.5em;
+}
+.class1 {
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom : 30%;
+    margin: 1.66%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}

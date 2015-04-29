@@ -1,0 +1,264 @@
+h1 {
+    text-align : center;
+}
+.jumbotron {
+    max-height : 170px;
+}
+footer {
+    clear: both;
+}
+td {
+    width: 1em;
+    height: 1em;
+}
+input {
+    width: 2.3em;
+    border: 1em solid #5B3203;
+}
+.float-left {
+    float: left;
+    width: 33%;
+}
+input[name = "r1c1"] {
+    background-color: #B39140;
+}
+input[name = "r1c2"] {
+    background-color: #B39140;
+}
+input[name = "r1c3"] {
+    background-color: #B39140;
+}
+input[name = "r2c1"] {
+    background-color: #B39140;
+}
+input[name = "r2c2"] {
+    background-color: #B39140;
+}
+input[name = "r2c3"] {
+    background-color: #B39140;
+}
+input[name = "r3c1"] {
+    background-color: #B39140;
+}
+input[name = "r3c2"] {
+    background-color: #B39140;
+}
+input[name = "r3c3"] {
+    background-color: #B39140;
+}
+input[name = "r1c7"] {
+    background-color: #B39140;
+}
+input[name = "r1c8"] {
+    background-color: #B39140;
+}
+input[name = "r1c9"] {
+    background-color: #B39140;
+}
+input[name = "r2c7"] {
+    background-color: #B39140;
+}
+input[name = "r2c8"] {
+    background-color: #B39140;
+}
+input[name = "r2c9"] {
+    background-color: #B39140;
+}
+input[name = "r3c7"] {
+    background-color: #B39140;
+}
+input[name = "r3c8"] {
+    background-color: #B39140;
+}
+input[name = "r3c9"] {
+    background-color: #B39140;
+}
+input[name = "r4c4"] {
+    background-color: #B39140;
+}
+input[name = "r4c5"] {
+    background-color: #B39140;
+}
+input[name = "r4c6"] {
+    background-color: #B39140;
+}
+input[name = "r5c4"] {
+    background-color: #B39140;
+}
+input[name = "r5c5"] {
+    background-color: #B39140;
+}
+input[name = "r5c6"] {
+    background-color: #B39140;
+}
+input[name = "r6c4"] {
+    background-color: #B39140;
+}
+input[name = "r6c5"] {
+    background-color: #B39140;
+}
+input[name = "r6c6"] {
+    background-color: #B39140;
+}
+input[name = "r7c1"] {
+    background-color: #B39140;
+}
+input[name = "r7c2"] {
+    background-color: #B39140;
+}
+input[name = "r7c3"] {
+    background-color: #B39140;
+}
+input[name = "r8c1"] {
+    background-color: #B39140;
+}
+input[name = "r8c2"] {
+    background-color: #B39140;
+}
+input[name = "r8c3"] {
+    background-color: #B39140;
+}
+input[name = "r9c1"] {
+    background-color: #B39140;
+}
+input[name = "r9c2"] {
+    background-color: #B39140;
+}
+input[name = "r9c3"] {
+    background-color: #B39140;
+}
+input[name = "r7c7"] {
+    background-color: #B39140;
+}
+input[name = "r7c8"] {
+    background-color: #B39140;
+}
+input[name = "r7c9"] {
+    background-color: #B39140;
+}
+input[name = "r8c7"] {
+    background-color: #B39140;
+}
+input[name = "r8c8"] {
+    background-color: #B39140;
+}
+input[name = "r8c9"] {
+    background-color: #B39140;
+}
+input[name = "r9c7"] {
+    background-color: #B39140;
+}
+input[name = "r9c8"] {
+    background-color: #B39140;
+}
+input[name = "r9c9"] {
+    background-color: #B39140;
+}
+input[name = "r1c4"] {
+    background-color: #BFA86A;
+}
+input[name = "r1c5"] {
+    background-color: #BFA86A;
+}
+input[name = "r1c6"] {
+    background-color: #BFA86A;
+}
+input[name = "r2c4"] {
+    background-color: #BFA86A;
+}
+input[name = "r2c5"] {
+    background-color: #BFA86A;
+}
+input[name = "r2c6"] {
+    background-color: #BFA86A;
+}
+input[name = "r3c4"] {
+    background-color: #BFA86A;
+}
+input[name = "r3c5"] {
+    background-color: #BFA86A;
+}
+input[name = "r3c6"] {
+    background-color: #BFA86A;
+}
+input[name = "r4c1"] {
+    background-color: #BFA86A;
+}
+input[name = "r4c2"] {
+    background-color: #BFA86A;
+}
+input[name = "r4c3"] {
+    background-color: #BFA86A;
+}
+input[name = "r5c1"] {
+    background-color: #BFA86A;
+}
+input[name = "r5c2"] {
+    background-color: #BFA86A;
+}
+input[name = "r5c3"] {
+    background-color: #BFA86A;
+}
+input[name = "r6c1"] {
+    background-color: #BFA86A;
+}
+input[name = "r6c2"] {
+    background-color: #BFA86A;
+}
+input[name = "r6c3"] {
+    background-color: #BFA86A;
+}
+input[name = "r4c7"] {
+    background-color: #BFA86A;
+}
+input[name = "r4c8"] {
+    background-color: #BFA86A;
+}
+input[name = "r4c9"] {
+    background-color: #BFA86A;
+}
+input[name = "r5c7"] {
+    background-color: #BFA86A;
+}
+input[name = "r5c8"] {
+    background-color: #BFA86A;
+}
+input[name = "r5c9"] {
+    background-color: #BFA86A;
+}
+input[name = "r6c7"] {
+    background-color: #BFA86A;
+}
+input[name = "r6c8"] {
+    background-color: #BFA86A;
+}
+input[name = "r6c9"] {
+    background-color: #BFA86A;
+}
+input[name = "r7c4"] {
+    background-color: #BFA86A;
+}
+input[name = "r7c5"] {
+    background-color: #BFA86A;
+}
+input[name = "r7c6"] {
+    background-color: #BFA86A;
+}
+input[name = "r8c4"] {
+    background-color: #BFA86A;
+}
+input[name = "r8c5"] {
+    background-color: #BFA86A;
+}
+input[name = "r8c6"] {
+    background-color: #BFA86A;
+}
+input[name = "r9c4"] {
+    background-color: #BFA86A;
+}
+input[name = "r9c5"] {
+    background-color: #BFA86A;
+}
+input[name = "r9c6"] {
+    background-color: #BFA86A;
+}
