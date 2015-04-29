@@ -1,0 +1,18 @@
+<body>
+    <div class="jumbotron">
+        <h1><span class="glyphicon glyphicon-th"></span>Sudoku
+            <p>You can solve sudoku puzzels or ask for solutions
+    <div >
+        <div align="center">
+            <p><h3>Solution:       
+                <table border="1">
+                    $forall ivlist <- answers
+                        <tr>
+                          $forall iv <- ivlist
+                            <td>#{iv}
+        <div align="center">
+            <p><h3>Difficulty: #{diffi}  
+        <div align="center">
+            <div>
+                <a href=@{SudokuR}>
+                    <button .btn .btn-primary type="submit">Back <span class="glyphicon glyphicon-circle-arrow-left"></span>

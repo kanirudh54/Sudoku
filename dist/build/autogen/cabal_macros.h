@@ -133,6 +133,13 @@
   (major1) == 2 && (major2) <  1 || \
   (major1) == 2 && (major2) == 1 && (minor) <= 0)
 
+/* package random-1.1 */
+#define VERSION_random "1.1"
+#define MIN_VERSION_random(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  1 || \
+  (major1) == 1 && (major2) == 1 && (minor) <= 0)
+
 /* package safe-0.3.8 */
 #define VERSION_safe "0.3.8"
 #define MIN_VERSION_safe(major1,major2,minor) (\

@@ -86,6 +86,7 @@ library
                  , containers
                  , vector
                  , time
+                 , random
 
 executable         Sudoku
     if flag(library-only)
